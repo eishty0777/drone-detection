@@ -2,3 +2,8 @@ streamlit
 ultralytics
 opencv-python-headless
 pillow
+
+
+
+
+Password/Enviroment IP for localtunnel: 34.16.229.14
